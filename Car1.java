@@ -1,5 +1,5 @@
-
-
+//https://www.youtube.com/watch?v=K3W7kCJbCUY&feature=youtu.be
+// فيديو لشرح كيفية كتابة هذا الكود
 public class Car1 {
 private final double efficiency;
 private double gas;
